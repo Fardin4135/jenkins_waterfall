@@ -1,4 +1,4 @@
-public class SumTwoNumbers {
+public class dev {
     public static void main(String[] args) {
         int num1 = 10; // first number
         int num2 = 20; // second number
